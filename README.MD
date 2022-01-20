@@ -6,4 +6,4 @@ Olá, bem vindo ao meu livro de receitas
  - pavê
  - bolo de cenoura
 
-#**Este é um exercício do curso de introdução ao  git  e ao github, porfessor Otávio Costa**
+#**Este é um exercício do curso de introdução ao  git  e ao github, porfessor Otávio Reis**
